@@ -1,4 +1,4 @@
-# Green-Crab-dDNA
+# European Green Crab dDNA, Willapa Bay WA
 Code for Fisher et al. (in review) Invasive European green crab (_Carcinus maenas_) predation revealed with quantitative DNA metabarcoding
 
 Abstract
